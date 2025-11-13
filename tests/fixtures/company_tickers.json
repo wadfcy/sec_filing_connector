@@ -1,0 +1,27 @@
+{
+  "AAPL": {
+    "cik_str": "320193",
+    "ticker": "AAPL",
+    "title": "Apple Inc."
+  },
+  "MSFT": {
+    "cik_str": "789019",
+    "ticker": "MSFT",
+    "title": "Microsoft Corp"
+  },
+  "TSLA": {
+    "cik_str": "1318605",
+    "ticker": "TSLA",
+    "title": "Tesla, Inc."
+  },
+  "GOOGL": {
+    "cik_str": "1652044",
+    "ticker": "GOOGL",
+    "title": "Alphabet Inc."
+  },
+  "AMZN": {
+    "cik_str": "1018724",
+    "ticker": "AMZN",
+    "title": "Amazon.com, Inc."
+  }
+}
